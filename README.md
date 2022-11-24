@@ -1,16 +1,12 @@
-- 👋 Hi, I’m @NotAnddy
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hola mi nombre es Andy, tengo 18 años, y soy de la provincial de El Oro, Ecuador.
+- 👀 Me intereza los videojuegos, anime, y la tecnologia.
+- 💞️ Estudio en la UNL(Universidad Nacional de Loja).
+- 📫 
 
 <!---
 NotAnddy/NotAnddy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-
-
-
 
 
 
